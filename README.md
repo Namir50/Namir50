@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Namir Shah</h1>
-<h3 align="center">A passionate Machine learning and Data Engineering from India</h3>
+<h3 align="center">A passionate Machine learning and Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namir50&label=Profile%20views&color=0e75b6&style=flat" alt="namir50" /> </p>
 
