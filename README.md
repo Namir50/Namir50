@@ -11,6 +11,8 @@
 
 - 💬 Ask me about technology **AI tools and and trending models/products**
 
+- 🌱 I am currently learning Data Structures and Algorithms, and Machine learning
+
 - 📫 How to reach me **namirsayyed50@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ps7ZCvog8cV9ZpY15UY4rSO4Y3Z9R8Ej/view?usp=sharing](https://drive.google.com/file/d/1Ps7ZCvog8cV9ZpY15UY4rSO4Y3Z9R8Ej/view?usp=sharing)
