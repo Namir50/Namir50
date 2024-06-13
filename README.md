@@ -1,20 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20294
-Fork on GitHub
-6187
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Namir Shsh</h1>
+<h1 align="center">Hi 👋, I'm Namir Shah</h1>
 <h3 align="center">A passionate Machine learning and Data Engineering from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namir50&label=Profile%20views&color=0e75b6&style=flat" alt="namir50" /> </p>
@@ -25,7 +9,7 @@ preview
 
 - 👨‍💻 All of my projects are available at [https://github.com/Namir50](https://github.com/Namir50)
 
-- 💬 Ask me about technology **AI tools and trending models/products**
+- 💬 Ask me about technology **AI tools and and trending models/products**
 
 - 📫 How to reach me **namirsayyed50@gmail.com**
 
@@ -33,11 +17,11 @@ preview
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/namir50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="namir50" height="30" width="40" /></a>
+<a href="https://dev.to/namir50.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="namir50.dev" height="30" width="40" /></a>
 <a href="https://twitter.com/namir50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namir50" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/namir shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namir shah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/namir50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namir50" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/namirsayyed50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="namirsayyed50" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/@namir50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@namir50" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@namirsayyed50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@namirsayyed50" height="30" width="40" /></a>
 <a href="https://discord.gg/namir.sayyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="namir.sayyed" height="30" width="40" /></a>
 </p>
 
@@ -49,28 +33,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namir50&show_icons=true&locale=en" alt="namir50" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namir50&" alt="namir50" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
