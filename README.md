@@ -25,7 +25,7 @@ preview
 
 - 👨‍💻 All of my projects are available at [https://github.com/Namir50](https://github.com/Namir50)
 
-- 💬 Ask me about technology **AI tools and and trending models/products**
+- 💬 Ask me about technology **AI tools and trending models/products**
 
 - 📫 How to reach me **namirsayyed50@gmail.com**
 
