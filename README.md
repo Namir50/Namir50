@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **namirsayyed50@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1ETeeb7djbN32nZ_xqxhvrUa4arxip7YS/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/10MU9ucx7s_uipctThgH9eF7T8UCJg1Vc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
