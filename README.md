@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/namir50" target="blank"><img src="https://img.shields.io/twitter/follow/namir50?logo=twitter&style=for-the-badge" alt="namir50" /></a> </p>
 
-- 🔭 I’m currently working on Computer Vision model **Solar Panel detection**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Namir50](https://github.com/Namir50)
 
 - 💬 Ask me about technology **AI tools and and trending models/products**
 
-- 🌱 I am currently learning Data Structures and Algorithms, and Machine learning
+- 🌱 I am currently learning Data Structures and Machine learning
 
 - 📫 How to reach me **namirsayyed50@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/10MU9ucx7s_uipctThgH9eF7T8UCJg1Vc/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1993DzHILRb3ztywR2GDbHQcEziL4pWqv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
