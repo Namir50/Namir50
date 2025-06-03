@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **namirsayyed50@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1993DzHILRb3ztywR2GDbHQcEziL4pWqv/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1bC5NhHTYUciAy840MB_wIooeVJS6bU5F/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
